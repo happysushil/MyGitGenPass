@@ -122,7 +122,7 @@ class GeneratePassword {
 					else
 						System.out.println("Please enter three natural numbers first should be biggest of three!");
 			}catch (NumberFormatException e) {
-		        System.err.println("All 3 Arguments must be natural numbers");
+		        System.err.println("All 3... Arguments must be natural numbers");
 		        System.exit(1);
 		    }
 
