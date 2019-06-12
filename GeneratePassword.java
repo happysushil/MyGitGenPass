@@ -111,7 +111,7 @@ class GeneratePassword {
 		// Get 3 numbers from command line and pass them to getRandomPassword after validations
 		int passLength, passminCapitals, passminNumbers;
 		if (args.length != 3) {
-			System.out.println("Please enter three natural numbers first should be biggest of three!");
+			System.out.println("Git Through Proxy Access..Please enter three natural numbers first should be biggest of three!");
 		}else{
 			try {
 					passLength = Integer.parseInt(args[0]);
